@@ -1,14 +1,3 @@
-Image of the Gemini app icon.
-Chat with Gemini in an app.
-Now available on Google Play.
-Conversation with Gemini
-SRM AP ML Lab Machine Learning Lab programs, assignments, experiments, and implementations completed as part of the B.Tech CSE curriculum at SRM University-AP. Covers data preprocessing, ML algorithms, model training, evaluation, and practical implementations using Python and popular ML libraries.
-
-
-
-Give me readme file for this
-
-Markdown
 # SRM University-AP: Machine Learning Lab (B.Tech CSE)
 
 A structured collection of laboratory experiments, assignments, and implementations completed as part of the Machine Learning course curriculum for the Department of Computer Science and Engineering at SRM University-AP.
@@ -36,4 +25,3 @@ This repository covers foundational to advanced machine learning workflows, incl
   * Additional / Advanced: `xgboost`, `lightgbm`, `statsmodels`
 * **Environment:** Jupyter Notebook / Google Colab / VS Code
 
----
